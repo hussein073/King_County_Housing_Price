@@ -4,8 +4,6 @@ tags:
 
 languages: python
 
-jupyter_notebook: true
-
 resources:
 
 live_assessment: true
