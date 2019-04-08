@@ -137,8 +137,8 @@ You’re almost done! In order to submit your project for review, include the fo
 
 1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub and paste that link to the right. (If you need help doing so, review the resources [here](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0).
 > a. Reminder: Make sure to also add and commit a pdf of your non-technical presentation to the repository with a file name of presentation.pdf.
-2. Blog Post: Include a link to your blog post.
-3. Record Walkthrough: Include a link to your video walkthrough.
+2. **Blog Post:** Include a link to your blog post.
+3. **Record Walkthrough:** Include a link to your video walkthrough.
 
 Hit "I'm done" to wrap it up. You will receive an email in order to schedule your review with your instructor.
 
