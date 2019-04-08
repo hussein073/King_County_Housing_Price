@@ -136,6 +136,7 @@ Please also write a blog post about one element of the project - it could be the
 You’re almost done! In order to submit your project for review, include the following links to your work in the corresponding fields on the right-hand side of Learn.
 
 1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub and paste that link to the right. (If you need help doing so, review the resources [here](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0).
+
 > a. Reminder: Make sure to also add and commit a pdf of your non-technical presentation to the repository with a file name of presentation.pdf.
 2. **Blog Post:** Include a link to your blog post.
 3. **Record Walkthrough:** Include a link to your video walkthrough.
