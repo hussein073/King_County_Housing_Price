@@ -1,6 +1,28 @@
 
 # Module 1 Final Project
+----------------
+2019.04.19
 
+Hussein Sajid & Werlindo Mangrobang  
+
+![Final Jupyter Notebook](https://github.com/MangrobanGit/dsc-1-final-project/blob/master/mod_1_proj_final.ipynbhttps://github.com/MangrobanGit/dsc-1-final-project/blob/master/mod_1_proj_final.ipynb)
+
+
+Link to slides in readme
+    Or pdf
+LInk to blog
+LInk to main JN
+
+
+
+
+
+
+
+
+
+
+-----------------
 
 ## Introduction
 
