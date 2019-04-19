@@ -11,9 +11,8 @@
 
 [Slides](https://docs.google.com/presentation/d/1RkA_zpp00FGc5LE4MaZzbReKaGPxuAeBBEo9gE9MRLY/edit?usp=sharing)
 
-**Presentation Overview**
-
-- Goal 
+**Slides Overview**
+- Project Goal 
   - Predict house prices as accurately as possible.
 - Top Predictors
   - 19 viable predictors -> 17 predictors
@@ -27,9 +26,9 @@
   - Improving Accuracy, examples include:
     - Different destination/epicenters, e.g. businesses, schools, etc.
     - Supplemental Data that could be combined with the provided dataset
-      - demographic data
-        - income levels in certain neighborhoods
-        - age ranges " " "
+      - Demographic data
+        - Income levels in certain neighborhoods
+        - Age ranges " " "
 
 -----------------
 
