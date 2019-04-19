@@ -1,21 +1,15 @@
 
 # Module 1 Final Project
 ----------------
-2019.04.19
+### 2019.04.19
 
-Hussein Sajid & Werlindo Mangrobang  
+### Hussein Sajid & Werlindo Mangrobang  
 
-![Final Jupyter Notebook](https://github.com/MangrobanGit/dsc-1-final-project/blob/master/mod_1_proj_final.ipynbhttps://github.com/MangrobanGit/dsc-1-final-project/blob/master/mod_1_proj_final.ipynb)
+[Final Jupyter Notebook](https://github.com/MangrobanGit/dsc-1-final-project/blob/master/mod_1_proj_final.ipynb)
 
+[Blog](https://medium.com/@hussein.sajid7/predicting-king-county-house-prices-d7e6c1c752d1)
 
-Link to slides in readme
-    Or pdf
-LInk to blog
-LInk to main JN
-
-
-
-
+[Slides](https://docs.google.com/presentation/d/1RkA_zpp00FGc5LE4MaZzbReKaGPxuAeBBEo9gE9MRLY/edit?usp=sharing)
 
 
 
