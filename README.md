@@ -11,10 +11,25 @@
 
 [Slides](https://docs.google.com/presentation/d/1RkA_zpp00FGc5LE4MaZzbReKaGPxuAeBBEo9gE9MRLY/edit?usp=sharing)
 
+**Presentation Overview**
 
-
-
-
+- Goal 
+  - Predict house prices as accurately as possible.
+- Top Predictors
+  - 19 viable predictors -> 17 predictors
+    - After transformations/binarizations/feature engineering -> 76 predictors
+  - "Top" based on statistical significance (p-values) and contribution to the results (size of coefficients)
+- Actual vs. Predicted Price
+  - Shown data is holdout data, not seen by the training model(s)
+  - Our best estimate/recommended model prices within +/- 13% of actual price
+    - We used Mean Absolute Percentage Error to measure this
+- Road Map
+  - Improving Accuracy, examples include:
+    - Different destination/epicenters, e.g. businesses, schools, etc.
+    - Supplemental Data that could be combined with the provided dataset
+      - demographic data
+        - income levels in certain neighborhoods
+        - age ranges " " "
 
 -----------------
 
