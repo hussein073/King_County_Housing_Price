@@ -1,0 +1,5 @@
+,model_name,model_desc,cv_10_rmse_mean,cv_10_mape_mean,num_predictors
+0,model_1,All preliminary variables included,156534.30361069948,18.071674875665355,101.0
+1,model_2,Model 1 with >.05 p-value variables removed,156405.29921590415,18.077223113811268,91.0
+5,model_6,"Model 6 with the log transformed price, including all the variables and distance",129693.54897615628,13.269589174463462,103.0
+7,model_8,Model 6 with step-wise selected variables,129441.87314153498,13.36367741684036,82.0
