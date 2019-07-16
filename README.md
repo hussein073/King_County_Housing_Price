@@ -5,7 +5,7 @@
 
 ### Hussein Sajid & Werlindo Mangrobang  
 
-[Final Jupyter Notebook](https://github.com/MangrobanGit/dsc-1-final-project/blob/master/mod_1_proj_final.ipynb)
+[Final Jupyter Notebook](https://github.com/hussein073/King_County_Housing_Price/blob/master/mod_1_proj_final.ipynb)
 
 [Blog](https://medium.com/@hussein.sajid7/predicting-king-county-house-prices-d7e6c1c752d1)
 
